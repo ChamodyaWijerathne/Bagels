@@ -43,7 +43,7 @@ clues would be Fermi Pico.'''.format(NUM_DIGITS))
         if not input('>').lower().startswith('y'):
             break
 
-    print('thank for playing!')
+    print('thank you for playing!')
 
 
 def getSecretNum():
